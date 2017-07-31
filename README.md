@@ -1,5 +1,5 @@
 # ReactNativeSomira
-ReactNative iOS APP for somira
+ReactNative APP for learn
 
 # 使用main.jsbundle
 1.在React Native项目根目录下运行 npm start(react-native run-ios --reset--cache)
@@ -34,4 +34,3 @@ self.navigationController.tabBarController.tabBar.hidden=self.navigationControll
   将来使用pushy publish --platform ios <ppkFile>来发布版本
 
   将来使用pushy update --platform ios 来使得对应包版本的用户更新
-  
